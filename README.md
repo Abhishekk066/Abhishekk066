@@ -1,18 +1,17 @@
 # Abhishek Kumar
 
-Full-Stack Developer | React & Next.js | Automation (Puppeteer, TypeScript) | Backend Systems
+Full-Stack Developer | Frontend & Backend | Automation & Scripting | AI-Aware Web Development
 
-I am a self-driven developer focused on building practical, real-world software solutions. My work spans full-stack web development, backend systems, automation tools, and experimental projects using modern technologies.
+I am a self-driven developer focused on building practical, real-world software solutions. My work spans frontend and backend web development, automation tools, backend systems, and experimental projects using modern technologies.
 
 ---
 
 ## 🧠 About Me
 
-- Full-stack developer with experience in **React and Next.js**
-- Build **automation tools using Puppeteer and TypeScript**
-- Strong backend foundation with **Node.js**
-- Experience with **databases, APIs, and system-level tools**
-- Interested in **AI-assisted development, automation, and scalable systems**
+- Certified in **Frontend Development (IBM)** and **Node.js**
+- Experience building **full-stack web applications**
+- Work on **automation tools using Puppeteer and Python**
+- Strong interest in **AI-assisted development and scalable systems**
 - Learn by building real, usable projects
 
 ---
@@ -20,26 +19,31 @@ I am a self-driven developer focused on building practical, real-world software 
 ## 🛠 Technical Skills
 
 **Languages:**  
-JavaScript, TypeScript, Python, C++, SQL  
+JavaScript, TypeScript, Python, C++, Java (basic), SQL  
 
-**Frontend:**  
+**Frontend (Certified):**  
+- HTML, CSS, JavaScript  
+- Frontend Development – **IBM Career Education Program**
+
+**Frontend (Working With):**  
 - React  
 - Next.js  
-- HTML, CSS  
 
-**Backend:**  
-- Node.js, Express  
+**Backend (Certified):**  
+- Node.js  
+- Express  
 - REST APIs  
 
-**Automation & Testing:**  
+**Automation & Scripting:**  
 - Puppeteer (browser automation & scraping)  
-- TypeScript-based automation workflows  
+- Selenium (basic)  
+- Python automation scripts  
 
 **Databases:**  
 - MongoDB  
 - Oracle SQL  
 
-**DevOps Basics:**  
+**DevOps (Fundamentals / Learning):**  
 - CI/CD concepts  
 - Docker (learning)  
 
@@ -52,10 +56,10 @@ JavaScript, TypeScript, Python, C++, SQL
 
 ## 🤖 Automation Focus
 
-I actively work on browser automation using **Puppeteer and TypeScript**, building scripts and tools for:
+I work on browser automation and scripting using **Puppeteer and Python**, building tools for:
 - Automated workflows  
 - Data extraction & scraping  
-- Testing and repetitive task automation  
+- Basic testing and repetitive task automation  
 
 ---
 
@@ -63,26 +67,20 @@ I actively work on browser automation using **Puppeteer and TypeScript**, buildi
 
 ### 🔹 Automation & System Tools
 - **Automation** – Python-based automation scripts  
-- **file-explorer-cpp** – File explorer built using C++  
-- **compiler_cpp** – Custom C++ compiler-related project  
-- **WiFi-LED-Control-Server** – Server-based IoT LED control  
+- **file-explorer-cpp** – Web-based file manager for GitHub repository directories  
+- **compiler_cpp** – Web-based C++ compiler  
+- **WiFi-LED-Control-Server** – Server-based IoT LED control system  
 
 ### 🔹 Backend & Database
 - **oracle-db-enhancer** – Enhancements for Oracle database usage  
-- **Electronic-voting-database-concept** – Database design project  
 - **SQL_Node_connect** – SQL integration with Node.js  
 
 ### 🔹 Web & Full-Stack
 - **Dynamic-data-manager** – Data handling using TypeScript  
-- **LearnEase** – Learning platform (HTML-based)  
-- **YouTube-Downloader** – Web-based utility  
-- **YT-CLI** – Command-line YouTube-related tool  
+- **LearnEase** – Learning management platform  
+- **YouTube-Downloader** – Tool to download YouTube videos  
 
-### 🔹 Experimental & Learning
-- **Genisis**, **Sanscript**, **Lambda** – Experimental projects  
-- **ComputationStatistics**, **7-Zip** – Algorithmic & utility-focused work  
-
-_(More projects available in repositories section)_
+_(More projects available in the repositories section)_
 
 ---
 
