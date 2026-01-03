@@ -45,7 +45,7 @@ JavaScript, TypeScript, Python, C++, Java (basic), SQL
 
 **DevOps (Fundamentals / Learning):**  
 - CI/CD concepts  
-- Docker (learning)  
+- Docker
 
 **Tools & Platforms:**  
 - Git, GitHub  
