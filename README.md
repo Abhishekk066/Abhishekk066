@@ -72,7 +72,7 @@ I work on browser automation and scripting using **Puppeteer and Python**, build
 - **WiFi-LED-Control-Server** – Server-based IoT LED control system  
 
 ### 🔹 Backend & Database
-- **oracle-db-enhancer** – Enhancements for Oracle database usage  
+- **oracle-db-enhancer** – Enhancements for Oracle database usage [Url](https://microsoftedge.microsoft.com/addons/detail/oracle-db-enhancer/clcacgjfcgfffobeonolboaabbmljedm)
 - **SQL_Node_connect** – SQL integration with Node.js  
 
 ### 🔹 Web & Full-Stack
