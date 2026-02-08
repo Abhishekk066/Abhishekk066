@@ -19,7 +19,7 @@ I am a self-driven developer focused on building practical, real-world software 
 ## 🛠 Technical Skills
 
 **Languages:**  
-JavaScript, TypeScript, Python, C++, Java (basic), SQL  
+JavaScript, TypeScript, Python, C, C++, Java (basic), PHP, SQL  
 
 **Frontend (Certified):**  
 - HTML, CSS, JavaScript  
