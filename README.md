@@ -1,194 +1,63 @@
-# Abhishek K
+## 📜 Certifications & Learning
 
-### CSE Student | AI Engineer | Full-Stack Developer | Automation | Cybersecurity | IoT
-
-I am a self-driven Computer Science student passionate about building AI-powered software, full-stack web applications, automation tools, and scalable backend systems. I enjoy solving real-world problems through modern software engineering while continuously learning emerging technologies.
-
----
-
-# 🧠 About Me
-
-- 🎓 Computer Science & Engineering (CSE) Student
-- 💼 Software Development Intern at **IIT Patna**
-- 🏅 IBM Certified in Frontend Development
-- 🏅 Node.js Certified (97%)
-- 🤖 Building AI-powered applications using **LLMs, OCR, RAG, and Local AI Models**
-- ⚡ Develop automation tools using **Python** and **Puppeteer**
-- 🔒 Interested in Cybersecurity and Secure Software Development
-- 🌐 Passionate about IoT, Networking, Backend Engineering, and Cloud Technologies
-- 📚 Learning by building production-ready software
-
----
-
-# 🛠 Technical Skills
-
-## Languages
-- JavaScript (ES6+)
-- TypeScript
-- Python
-- C
-- C++
-- Java (Basic)
-- PHP
-- SQL
-
-## Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Next.js
-- Responsive Web Design
-
-## Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication & Authorization
-- API Integration
-
-## AI Engineering
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- OCR Pipelines
-- Prompt Engineering
-- Embedding Models
-- Vector Databases
-- Ollama
-- AI Chatbot Development
-- Document Intelligence
-
-## Automation
-- Python Automation
-- Puppeteer
-- Browser Automation
-- Web Scraping
-- Workflow Automation
-- Selenium (Basic)
-
-## Databases
-- MongoDB
-- MySQL
-- Oracle SQL
-
-## DevOps & Deployment
-- Docker
-- Docker Compose
-- Linux
-- Nginx
-- Git
-- GitHub
-- CI/CD Fundamentals
-- VPS Deployment
-
-## Cybersecurity & Networking
-- Secure Coding Practices
-- Authentication & Access Control
-- Networking Fundamentals
-- IoT Systems
-
-## Tools
-- VS Code
-- Postman
-- Electron
-- Ollama
-- Claude Code
-- ChatGPT
-
----
-
-# 🚀 Currently Working On
-
-- Medical PDF AI Chatbot
-- Offline OCR + RAG Pipeline
-- Local LLM Applications
-- AI Document Intelligence
-- Backend APIs
-- Dockerized Deployments
-- Secure AI Systems
-
----
-
-# 📂 Featured Projects
-
-## 🤖 AI Projects
-
-### Medical PDF AI Chatbot *(In Progress)*
-Privacy-first offline chatbot for medical documents using OCR, RAG, embeddings, vector databases, and local LLMs.
-
-### Medical PDF Dataset Generator *(In Progress)*
-Pipeline for extracting structured medical datasets from PDFs using OCR and AI.
-
----
-
-## ⚙️ Automation & System Tools
-
-- Automation
-- file-explorer-cpp
-- compiler_cpp
-- WiFi-LED-Control-Server
-
----
-
-## 🌐 Full-Stack
-
-- LearnEase
-- Dynamic-data-manager
-- SQL_Node_connect
-- YouTube-Downloader
-
----
-
-## 🗄 Browser Extension
-
-### Oracle DB Enhancer
-
-Microsoft Edge Extension for improving Oracle Database workflow.
-
-https://microsoftedge.microsoft.com/addons/detail/oracle-db-enhancer/clcacgjfcgfffobeonolboaabbmljedm
-
----
-
-# 📜 Certifications
-
-- 🏅 Aspire Leaders Program 2026 (Aspire Institute in collaboration with Harvard Business School Online)
-- 🏅 IBM Career Education Program — Frontend Development
-- 🏅 Node.js — 97%
-- 🏅 Web Development with AI — 97%
+- 🏅 **Aspire Leaders Program 2026** – Aspire Institute in collaboration with **Harvard Business School Online**
+- 🏅 Web Development with AI – **97%**
+- 🏅 Node.js – **97%**
+- 🏅 Front End Technologies – **IBM Career Education Program**
 - 🏅 Full-Stack Development
-- 🏅 Data Structures & Algorithms
+- 🏅 Data Structures & Algorithms (DSA)
 - 🏅 DevOps Fundamentals
-- 🏅 Idea to Business Plan Workshop — IIT Mandi Catalyst
+- 🏅 Idea to Business Plan Workshop – **IIT Mandi Catalyst**
 
 ---
 
-# 💼 Experience
+## 💼 Experience
+
+### Independent Full-Stack & AI Developer
+**Self Projects**
+
+- Built AI-powered applications using OCR, RAG, embeddings, vector databases, and local LLMs.
+- Developed full-stack web applications using React, Next.js, Node.js, Express.js, and MongoDB.
+- Created browser automation and web scraping tools using Python and Puppeteer.
+- Built online compiler and developer productivity tools.
+- Developed browser extensions to improve Oracle Database workflows.
+- Built IoT and networking applications with backend services.
+- And many more.
 
 ### Software Development Intern
-**Indian Institute of Technology (IIT) Patna**
+**Indian Institute of Technology (IIT) Patna** *(Current)*
 
-**Current**
-
-- Working on AI-powered software solutions.
-- Building intelligent document processing systems.
-- Developing scalable backend services.
-- Working with OCR, LLMs, and AI automation.
+- Building AI-powered medical chatbot
+- Working on OCR, RAG, Local LLMs and intelligent document processing
+- Developing backend services and automation tools
 
 ---
 
-# 🎯 Interests
+## 🎵 Beyond Coding
+
+Before beginning my B.Tech journey, I spent over two years learning **music production, beat making, sound design, mixing, and audio engineering** using professional digital audio workstations and audio plugins.
+
+That experience strengthened my creativity, patience, attention to detail, and problem-solving mindset—qualities I now apply to software engineering and AI development.
+
+**Tools & Software**
+
+- FL Studio
+- Adobe Audition
+- iZotope RX
+- Audacity
+- Virtual Instruments & Audio Plugins
+
+---
+
+## 🎯 Interests
 
 - Artificial Intelligence
-- Machine Learning
-- Full-Stack Development
-- Backend Engineering
+- Full-Stack & Backend Engineering
+- Automation & Tooling
 - Cybersecurity
-- Automation
+- Firmware & Embedded Systems
 - IoT & Networking
-- DevOps
-- Open Source
+- Cloud & DevOps
+- Music Production
 - Startups & Entrepreneurship
-
----
-
-> **Always Learning • Always Building • Always Improving 🚀**
+- Continuous Learning & Self Growth
