@@ -1,107 +1,194 @@
 # Abhishek K
 
-Full-Stack Developer | Frontend & Backend | Automation & Scripting | AI-Aware Web Development
+### CSE Student | AI Engineer | Full-Stack Developer | Automation | Cybersecurity | IoT
 
-I am a self-driven developer focused on building practical, real-world software solutions. My work spans frontend and backend web development, automation tools, backend systems, and experimental projects using modern technologies.
-
----
-
-## 🧠 About Me
-
-- Certified in **Frontend Development (IBM)** and **Node.js**
-- Experience building **full-stack web applications**
-- Work on **automation tools using Puppeteer and Python**
-- Strong interest in **AI-assisted development and scalable systems**
-- Learn by building real, usable projects
+I am a self-driven Computer Science student passionate about building AI-powered software, full-stack web applications, automation tools, and scalable backend systems. I enjoy solving real-world problems through modern software engineering while continuously learning emerging technologies.
 
 ---
 
-## 🛠 Technical Skills
+# 🧠 About Me
 
-**Languages:**  
-JavaScript, TypeScript, Python, C, C++, Java (basic), PHP, SQL  
+- 🎓 Computer Science & Engineering (CSE) Student
+- 💼 Software Development Intern at **IIT Patna**
+- 🏅 IBM Certified in Frontend Development
+- 🏅 Node.js Certified (97%)
+- 🤖 Building AI-powered applications using **LLMs, OCR, RAG, and Local AI Models**
+- ⚡ Develop automation tools using **Python** and **Puppeteer**
+- 🔒 Interested in Cybersecurity and Secure Software Development
+- 🌐 Passionate about IoT, Networking, Backend Engineering, and Cloud Technologies
+- 📚 Learning by building production-ready software
 
-**Frontend (Certified):**  
-- HTML, CSS, JavaScript  
-- Frontend Development – **IBM Career Education Program**
+---
 
-**Frontend (Working With):**  
-- React  
-- Next.js  
+# 🛠 Technical Skills
 
-**Backend (Certified):**  
-- Node.js  
-- Express  
-- REST APIs  
+## Languages
+- JavaScript (ES6+)
+- TypeScript
+- Python
+- C
+- C++
+- Java (Basic)
+- PHP
+- SQL
 
-**Automation & Scripting:**  
-- Puppeteer (browser automation & scraping)  
-- Selenium (basic)  
-- Python automation scripts  
+## Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Next.js
+- Responsive Web Design
 
-**Databases:**  
-- MongoDB  
-- Oracle SQL  
+## Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication & Authorization
+- API Integration
 
-**DevOps (Fundamentals / Learning):**  
-- CI/CD concepts  
+## AI Engineering
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- OCR Pipelines
+- Prompt Engineering
+- Embedding Models
+- Vector Databases
+- Ollama
+- AI Chatbot Development
+- Document Intelligence
+
+## Automation
+- Python Automation
+- Puppeteer
+- Browser Automation
+- Web Scraping
+- Workflow Automation
+- Selenium (Basic)
+
+## Databases
+- MongoDB
+- MySQL
+- Oracle SQL
+
+## DevOps & Deployment
 - Docker
+- Docker Compose
+- Linux
+- Nginx
+- Git
+- GitHub
+- CI/CD Fundamentals
+- VPS Deployment
 
-**Tools & Platforms:**  
-- Git, GitHub  
-- Linux  
-- Electron  
+## Cybersecurity & Networking
+- Secure Coding Practices
+- Authentication & Access Control
+- Networking Fundamentals
+- IoT Systems
 
----
-
-## 🤖 Automation Focus
-
-I work on browser automation and scripting using **Puppeteer and Python**, building tools for:
-- Automated workflows  
-- Data extraction & scraping  
-- Basic testing and repetitive task automation  
-
----
-
-## 📂 Key Projects (From My Repositories)
-
-### 🔹 Automation & System Tools
-- **Automation** – Python-based automation scripts  
-- **file-explorer-cpp** – Web-based file manager for GitHub repository directories  
-- **compiler_cpp** – Web-based C++ compiler  
-- **WiFi-LED-Control-Server** – Server-based IoT LED control system  
-
-### 🔹 Backend & Database
-- **oracle-db-enhancer** – Enhancements for Oracle database usage [Url](https://microsoftedge.microsoft.com/addons/detail/oracle-db-enhancer/clcacgjfcgfffobeonolboaabbmljedm)
-- **SQL_Node_connect** – SQL integration with Node.js  
-
-### 🔹 Web & Full-Stack
-- **Dynamic-data-manager** – Data handling using TypeScript  
-- **LearnEase** – Learning management platform  
-- **YouTube-Downloader** – Tool to download YouTube videos  
-
-_(More projects available in the repositories section)_
+## Tools
+- VS Code
+- Postman
+- Electron
+- Ollama
+- Claude Code
+- ChatGPT
 
 ---
 
-## 📜 Certifications & Learning
+# 🚀 Currently Working On
 
-- Web Development with AI – **97% score**  
-- Node.js – **97% score**  
-- Front End Technologies – **IBM Career Education Program**  
-- Full-Stack Development, DSA & DevOps fundamentals  
-- Idea to Business Plan Workshop – **IIT Mandi Catalyst**
-
----
-
-## 🎯 Interests
-
-- Full-stack & backend engineering  
-- Automation & tooling  
-- AI-assisted development  
-- Startups & entrepreneurship  
-- Continuous learning and self-growth  
+- Medical PDF AI Chatbot
+- Offline OCR + RAG Pipeline
+- Local LLM Applications
+- AI Document Intelligence
+- Backend APIs
+- Dockerized Deployments
+- Secure AI Systems
 
 ---
 
-📌 *Always learning. Always building.*
+# 📂 Featured Projects
+
+## 🤖 AI Projects
+
+### Medical PDF AI Chatbot *(In Progress)*
+Privacy-first offline chatbot for medical documents using OCR, RAG, embeddings, vector databases, and local LLMs.
+
+### Medical PDF Dataset Generator *(In Progress)*
+Pipeline for extracting structured medical datasets from PDFs using OCR and AI.
+
+---
+
+## ⚙️ Automation & System Tools
+
+- Automation
+- file-explorer-cpp
+- compiler_cpp
+- WiFi-LED-Control-Server
+
+---
+
+## 🌐 Full-Stack
+
+- LearnEase
+- Dynamic-data-manager
+- SQL_Node_connect
+- YouTube-Downloader
+
+---
+
+## 🗄 Browser Extension
+
+### Oracle DB Enhancer
+
+Microsoft Edge Extension for improving Oracle Database workflow.
+
+https://microsoftedge.microsoft.com/addons/detail/oracle-db-enhancer/clcacgjfcgfffobeonolboaabbmljedm
+
+---
+
+# 📜 Certifications
+
+- 🏅 Aspire Leaders Program 2026 (Aspire Institute in collaboration with Harvard Business School Online)
+- 🏅 IBM Career Education Program — Frontend Development
+- 🏅 Node.js — 97%
+- 🏅 Web Development with AI — 97%
+- 🏅 Full-Stack Development
+- 🏅 Data Structures & Algorithms
+- 🏅 DevOps Fundamentals
+- 🏅 Idea to Business Plan Workshop — IIT Mandi Catalyst
+
+---
+
+# 💼 Experience
+
+### Software Development Intern
+**Indian Institute of Technology (IIT) Patna**
+
+**Current**
+
+- Working on AI-powered software solutions.
+- Building intelligent document processing systems.
+- Developing scalable backend services.
+- Working with OCR, LLMs, and AI automation.
+
+---
+
+# 🎯 Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Full-Stack Development
+- Backend Engineering
+- Cybersecurity
+- Automation
+- IoT & Networking
+- DevOps
+- Open Source
+- Startups & Entrepreneurship
+
+---
+
+> **Always Learning • Always Building • Always Improving 🚀**
