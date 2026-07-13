@@ -2,7 +2,7 @@
 
 ### CSE Student | AI Engineer | Full-Stack Developer | Cybersecurity | IoT | Automation
 
-I am a self-driven developer passionate about building practical, real-world software solutions. My work spans AI-powered applications, full-stack web development, backend engineering, automation, cybersecurity, and IoT. I enjoy transforming ideas into scalable products while continuously learning modern technologies and contributing to innovative projects.
+I am a self-driven developer passionate about building practical, real-world software solutions. My work spans AI-powered applications, full-stack development, backend engineering, automation, cybersecurity, and IoT. I enjoy transforming ideas into scalable products while continuously learning modern technologies and contributing to innovative projects.
 
 ---
 
