@@ -111,30 +111,11 @@ I build browser automation and intelligent workflow solutions using **Python** a
 
 ---
 
-# 🚀 Currently Working On
-
-- 🩺 Privacy-first Medical PDF AI Chatbot
-- 📄 Medical PDF Dataset Generation
-- 🤖 Offline OCR + RAG Pipeline
-- 🧠 Local LLM Applications using Ollama
-- 🔍 Intelligent Document Processing
-- 🐳 Dockerized AI Applications
-- 💻 CompileAny – Online Multi-language Compiler Platform
-
----
-
 # 📂 Featured Projects
 
-## 🤖 AI Projects *(Current)*
+## 🤖 AI Projects
 
-### 🩺 Medical PDF AI Chatbot *(In Progress)*
-Privacy-first offline AI chatbot for medical documents using **OCR**, **RAG**, **Embeddings**, **Vector Databases**, and **Local LLMs** to provide accurate, context-aware responses while keeping sensitive data completely offline.
-
-**Tech Stack:** Python, Ollama, OCR, RAG, Vector Database, Docker
-
----
-
-### 📄 Medical PDF Dataset Generator *(In Progress)*
+### 📄 Medical PDF Dataset Generator
 AI-powered document processing pipeline that extracts, cleans, and structures medical information from PDF documents using OCR and Local LLMs for chatbot training and intelligent retrieval.
 
 **Tech Stack:** Python, OCR, Data Processing, Automation
